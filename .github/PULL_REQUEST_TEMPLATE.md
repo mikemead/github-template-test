@@ -1,6 +1,14 @@
-*Overview of change:*
+**Pull Request Checklist:**
+- There is a Jira ticket associated with this Pull Request
+- The title, branch name and every commit is prefixed with the Jira ticket number
+- This Pull Request has been tagged with an appropriate label (or labels)
 
-*Impact of change:*
+**Reason for change:**
 
-*Notes:*
+_Why?_
 
+**Impact of change:**
+
+_E.g. Will it restart any services?_
+
+**Additional notes:**
