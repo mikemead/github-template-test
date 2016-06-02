@@ -5,10 +5,10 @@
 
 **Reason for change:**
 
-_Why?_
+Whitelist new IP address for Client01
 
 **Impact of change:**
 
-_E.g. Will it restart any services?_
+Apache will be restarted on the app servers
 
 **Additional notes:**
